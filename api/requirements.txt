@@ -1,0 +1,8 @@
+earthengine-api==1.1.2
+fastapi==0.115.0
+fastapi-cli==0.0.5
+folium==0.17.0
+geehydro==0.2.0
+numpy==2.1.1
+pandas==2.2.3
+skyfield==1.49
